@@ -1,11 +1,11 @@
 {
-  "name": "uber-api",
+  "name": "352-uber",
   "description": "Uber API for NodeJS",
-  "author": "Nathan Daniel <nathanpdaniel01@gmail.com>",
-  "version": "0.3.3",
+  "author": "352inc <devops@352inc.com>",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nathanpdaniel/uber-api.git"
+    "url": "git://github.com/352media/node-uber-api.git"
   },
   "dependencies": {
     "promise": "^6.1.0",
@@ -22,9 +22,9 @@
     "mocha": "*"
   },
   "bugs": {
-    "url": "https://github.com/nathanpdaniel/uber-api/issues"
+    "url": "https://github.com/352media/node-uber-api/issues"
   },
-  "homepage": "https://github.com/nathanpdaniel/uber-api",
+  "homepage": "https://github.com/352media/node-uber-api",
   "main": "uber.js",
   "scripts": {
     "test": "mocha"
@@ -33,5 +33,8 @@
     "uber",
     "api"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  }
 }
