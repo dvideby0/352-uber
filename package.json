@@ -2,7 +2,7 @@
   "name": "352-uber",
   "description": "Uber API for NodeJS",
   "author": "352inc <devops@352inc.com>",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/352media/352-uber.git"
