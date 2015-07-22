@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/node-uber-api.iml" filepath="$PROJECT_DIR$/.idea/node-uber-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/352-uber.iml" filepath="$PROJECT_DIR$/.idea/352-uber.iml" />
     </modules>
   </component>
 </project>

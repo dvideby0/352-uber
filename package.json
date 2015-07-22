@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/352media/node-uber-api.git"
+    "url": "git://github.com/352media/352-uber.git"
   },
   "dependencies": {
     "promise": "^6.1.0",
@@ -22,9 +22,9 @@
     "mocha": "*"
   },
   "bugs": {
-    "url": "https://github.com/352media/node-uber-api/issues"
+    "url": "https://github.com/352media/352-uber/issues"
   },
-  "homepage": "https://github.com/352media/node-uber-api",
+  "homepage": "https://github.com/352media/352-uber",
   "main": "uber.js",
   "scripts": {
     "test": "mocha"
